@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: white;
+}
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  background-color: red;
+  width: 100%;
+}
+h1 {
+  color: white;
+}
+main {
+  text-align: center;
+  height: 90hv;
+}
+h2 {
+  height: 35px;
+  margin: 3vh 50vh 12vh;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  font-weight: 700;
+}
+button {
+  background-color: red;
+  font-size: 20px;
+  margin: 10px 10px 80px;
+}
+button:hover {
+  font-size: 21px;
+}
+p {
+  font-size: 20px;
+  color: blue;
+  font-weight: 50;
+  margin: 3vh 50vh 12vh;
+}
+img {
+  border: 1.5px solid blue;
+  width: 35vw;
+}
