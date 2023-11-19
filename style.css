@@ -1,55 +1,59 @@
 * {
-  margin: 0;
-  padding: 0;
-}
-html {
-  font-size: 62.5%;
-}
-body {
-  background-color: white;
-}
-header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 12vh;
-  background-color: red;
-  width: 100%;
-}
-h1 {
-  color: white;
-}
-main {
-  text-align: center;
-  height: 90hv;
-}
-h2 {
-  font-size: 3rem;
-  height: 0.5rem;
-  margin: 1rem 0rem 3rem;
-}
-a {
-  text-decoration: none;
-  color: white;
-}
-a:hover {
-  font-weight: 700;
-}
-button {
-  background-color: red;
-  padding: 2rem;
-  margin: 1rem 0rem 5rem;
-}
-button:hover {
-  padding: 2.2rem;
-}
-p {
-  font-size: 2rem;
-  color: blue;
-  font-weight: 50;
-  margin: 3rem 10rem 8rem 10rem;
-}
-img {
-  border: 1.5px solid blue;
-  width: 50rem;
-}
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    font-size: 62.5%;
+  }
+  body {
+    background-color: white;
+  }
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    background-color: red;
+    width: 100%;
+  }
+  h1 {
+    color: white;
+  }
+  main {
+    text-align: center;
+    height: 90hv;
+  }
+  h2 {
+    font-size: 3rem;
+    height: 0.5rem;
+    margin: 1rem 0rem 3rem;
+    padding: 0rem 0rem 8rem;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  a:hover {
+    font-weight: 700;
+  }
+  button {
+    background-color: red;
+    padding: 2rem;
+    margin: 1rem 0rem 5rem;
+  }
+  button:hover {
+    padding: 2.2rem;
+  }
+  p {
+    font-size: 2rem;
+    color: blue;
+    font-weight: 50;
+    margin: 3rem 10rem 8rem 10rem;
+  }
+  img {
+    border: 1.5px solid blue;
+    width: 50rem;
+  }
+  div{
+    margin: 3rem 0rem 1.5rem;
+  }
