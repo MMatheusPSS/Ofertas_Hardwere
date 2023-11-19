@@ -36,11 +36,11 @@ a:hover {
 }
 button {
   background-color: red;
-  font-size: 20px;
+  padding: 2rem;
   margin: 1rem 0rem 5rem;
 }
 button:hover {
-  font-size: 21px;
+  padding: 2.2rem;
 }
 p {
   font-size: 2rem;
