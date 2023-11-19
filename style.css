@@ -27,7 +27,7 @@
     font-size: 3rem;
     height: 0.5rem;
     margin: 1rem 0rem 3rem;
-    padding: 0rem 0rem 10rem;
+    padding: 0rem 0rem 8rem;
   }
   a {
     text-decoration: none;
@@ -55,5 +55,10 @@
     width: 50rem;
   }
   div{
-    margin: 6rem 0rem 1.5rem;
+    margin: 3rem 0rem 1.5rem;
   }
+h2#cl1{
+    padding: 0rem 0rem 12rem;
+    margin: 0rem 0 rem 5rem;
+}
+    
