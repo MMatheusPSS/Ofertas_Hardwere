@@ -14,21 +14,25 @@ header {
   justify-content: center;
   align-items: center;
   padding: 3.5rem;
-  background-image: linear-gradient(180deg, rgb(25, 25, 236), rgb(58, 58, 248));
+  background-image: linear-gradient(
+    180deg,
+    rgb(25, 25, 236),
+    rgb(100, 100, 241)
+  );
   width: 100%;
   position: fixed;
   top: 0;
 }
 h1 {
   color: white;
-  font-size:3.5rem;
+  font-size: 3.5rem;
 }
 main {
   text-align: center;
   height: 90%;
 }
 h2 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   margin: 1rem 0rem 3rem;
 }
 a {
@@ -40,7 +44,7 @@ a:hover {
   font-weight: 700;
 }
 button {
-  background-color: red;
+  background-color: blue;
   padding: 2rem;
   margin: 1rem 0rem 5rem;
 }
@@ -66,10 +70,11 @@ div {
 strong {
   font-size: 3.5rem;
   text-decoration: underline;
-  color: blue;
+  color: white;
 }
 .div_decoration {
-  background-image: linear-gradient(180deg, rgb(13, 64, 105), rgb(11, 83, 165));
-  margin-right: 10rem;
-  margin-left: 10rem;
+  background-image: linear-gradient(180deg, rgb(5, 40, 70), rgb(71, 130, 197));
+  margin-right: 20rem;
+  margin-left: 20rem;
+  border-radius: 1.5rem;
 }
