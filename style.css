@@ -69,4 +69,6 @@ strong {
 }
 .div_decoration {
   background-image: linear-gradient(180deg, rgb(13, 64, 105), rgb(11, 83, 165));
+  margin-right: 10rem;
+  margin-left: 10rem;
 }
