@@ -1,4 +1,5 @@
 * {
+
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -53,13 +54,15 @@ button:hover {
 }
 p {
   font-size: 3rem;
-  color: white;
-  font-weight: 50;
-  margin: 3rem 10rem 5rem 10rem;
+  font-weight: 300;
+  margin: 2rem 0rem 2rem ;
+  color: black;
 }
 img {
   border: 1.5px solid blue;
-  width: 50rem;
+  width: 45rem;
+  border-radius: 1.5rem;
+  border-width: 0.5rem;
 }
 div {
   margin: 3rem 0rem 1.5rem;
@@ -70,11 +73,5 @@ div {
 strong {
   font-size: 3.5rem;
   text-decoration: underline;
-  color: white;
-}
-.div_decoration {
-  background-image: linear-gradient(180deg, rgb(5, 40, 70), rgb(71, 130, 197));
-  margin-right: 15rem;
-  margin-left: 15rem;
-  border-radius: 1.5rem;
+  color: blue;
 }
