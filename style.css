@@ -35,11 +35,6 @@ h2 {
   font-size: 3rem;
   margin: 1rem 1rem 3rem 1rem;
 }
-a {
-  text-decoration: none;
-  color: white;
-  font-size: 2.2rem;
-}
 a:hover {
   font-weight: 700;
 }
@@ -47,6 +42,9 @@ button {
   background-color: blue;
   padding: 2rem;
   margin: 1rem 0rem 5rem;
+  color: white;
+  text-decoration: none;
+  font-size: 2.2rem;
 }
 button:hover {
   padding: 2.2rem;
